@@ -1,0 +1,15 @@
+{
+  "name": "openseason",
+  "displayName": "OpenSeason",
+  "description": "Focus, things, checklists, and life lenses for OpenSeason via remote MCP. Sign in with OAuth to connect your household.",
+  "version": "0.1.0",
+  "author": {
+    "name": "OpenSeason",
+    "email": "hello@openseason.life"
+  },
+  "license": "MIT",
+  "homepage": "https://openseason.life",
+  "repository": "https://github.com/dbenzel/openseason-cursor",
+  "keywords": ["openseason", "mcp", "focus", "life-os", "checklist", "habits"],
+  "logo": "assets/logo.svg"
+}
