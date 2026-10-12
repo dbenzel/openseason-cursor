@@ -2,6 +2,8 @@
 
 Connect [OpenSeason](https://openseason.life) to Cursor through the Model Context Protocol (MCP). Manage focus, things, checklists, and life lenses from your editor after a one-time OAuth sign-in.
 
+Not on OpenSeason yet? Try the [Free renewals tool](https://openseason.life/for/renewals?utm_source=github&utm_medium=readme&utm_campaign=owned-links): list your subscriptions and see what renews in the next 30 and 90 days, plus your yearly total. No signup.
+
 ## What you get
 
 - Remote MCP endpoint at `https://openseason.life/api/mcp`
