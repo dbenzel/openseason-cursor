@@ -1,5 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
-  <rect width="32" height="32" rx="8" fill="#0f172a"/>
-  <path d="M8 20c2.5-6 5-9 8-9s5.5 3 8 9" stroke="#3d7eff" stroke-width="2.2" stroke-linecap="round"/>
-  <circle cx="16" cy="11" r="2.2" fill="#7dd3fc"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="512" height="512" role="img" aria-label="OpenSeason"><title>OpenSeason</title><rect width="100" height="100" rx="22" fill="#12141a"/><path d="M28 58 A22 22 0 0 1 72 58 Z" fill="#c4a574"/><path d="M50.00 28.00 L50.00 19.00" stroke="#c4a574" stroke-width="6" stroke-linecap="round"/><path d="M27.02 38.72 L20.12 32.93" stroke="#c4a574" stroke-width="6" stroke-linecap="round"/><path d="M72.98 38.72 L79.88 32.93" stroke="#c4a574" stroke-width="6" stroke-linecap="round"/><rect x="14" y="65" width="72" height="7" rx="3.5" fill="#ece8e1"/><rect x="32" y="78" width="36" height="6" rx="3" fill="#8f9bb3"/></svg>
