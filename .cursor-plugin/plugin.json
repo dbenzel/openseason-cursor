@@ -1,15 +1,22 @@
 {
   "name": "openseason",
   "displayName": "OpenSeason",
-  "description": "Focus, things, checklists, and life lenses for OpenSeason via remote MCP. Sign in with OAuth to connect your household.",
-  "version": "0.1.0",
+  "description": "Track renewals and work your Focus list from Cursor. Read and update your OpenSeason life tree, things and checklists over remote MCP after one OAuth sign-in.",
+  "version": "0.1.1",
   "author": {
     "name": "OpenSeason",
-    "email": "hello@openseason.life"
+    "email": "support@openseason.life"
   },
   "license": "MIT",
   "homepage": "https://openseason.life",
   "repository": "https://github.com/dbenzel/openseason-cursor",
-  "keywords": ["openseason", "mcp", "focus", "life-os", "checklist", "habits"],
+  "keywords": [
+    "openseason",
+    "openseason-renewals",
+    "openseason-focus",
+    "life-tree",
+    "renewals",
+    "checklists"
+  ],
   "logo": "assets/logo.svg"
 }
