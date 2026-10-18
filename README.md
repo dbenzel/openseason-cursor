@@ -8,9 +8,15 @@ Not on OpenSeason yet? Try the [Free renewals tool](https://openseason.life/for/
 
 - Remote MCP endpoint at `https://openseason.life/api/mcp`
 - OAuth against OpenSeason (client id `cursor-mcp`)
-- Tools to read and update your household data in OpenSeason
+- Tools to read and update your life tree, renewals and Focus in OpenSeason
 
-Your SaaS data stays on OpenSeason. This plugin only ships the Cursor manifest and MCP connection config.
+Your data stays on OpenSeason. This plugin only ships the Cursor manifest and MCP connection config. It has no code of its own.
+
+## Network endpoints and credentials
+
+- Calls one endpoint: `https://openseason.life/api/mcp` (MCP over HTTPS)
+- Signs in through OpenSeason OAuth (`https://openseason.life/oauth/authorize` and `/oauth/token`, PKCE S256)
+- Needs no API key, secret or environment variable. Cursor stores the OAuth tokens it gets after you approve access.
 
 ## Install
 
@@ -44,7 +50,8 @@ You can disconnect Cursor anytime in OpenSeason under [Settings, Connected apps]
 
 ## Support
 
-- Product and account help: [https://openseason.life](https://openseason.life)
+- Product and account help: [support@openseason.life](mailto:support@openseason.life)
+- Privacy: [https://openseason.life/privacy](https://openseason.life/privacy)
 - Issues with this plugin repo: open a GitHub issue on this repository
 
 ## License
